@@ -65,3 +65,19 @@ body {
 .submit-btn:hover {
   background-color: #0ce3ff;
 }
+.card {
+  background: #d7dfe7;
+  padding: 15px;
+  margin: 10px 0;
+  border-radius: 4px;
+  /* box-shadow: 0 1px 5px rgba(0, 0, 0, 0.1); */
+}
+
+.card h3 {
+  margin: 0;
+  font-size: 1.5em;
+}
+
+.card p {
+  margin: 5px 0;
+}
